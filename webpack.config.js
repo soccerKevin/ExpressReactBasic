@@ -37,7 +37,7 @@ const config = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Stocks',
+      title: 'Basic Express React App',
       templateContent: "<div id='reactApp'></div>"
     }),
   ],
