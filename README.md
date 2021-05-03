@@ -1,1 +1,1 @@
-# Stocks
+# Basic Express / React app
